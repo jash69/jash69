@@ -12,7 +12,7 @@
 
 ### Here Are My GitHub Stats
 
-![Jash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jash69&show_icons=true&theme=blueberry)
+![Jash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jashvakharia&show_icons=true&theme=blueberry)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jash69&layout=compact&theme=blueberry)](https://github.com/jash69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashvakharia&layout=compact&theme=blueberry)](https://github.com/jash69/github-readme-stats)
 
