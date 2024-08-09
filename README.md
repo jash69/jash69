@@ -11,7 +11,7 @@
 
 ### Here Are My GitHub Stats
 
-![Jash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jashvakharia&show_icons=true&theme=blueberry)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashvakharia&layout=compact&theme=blueberry)](https://github.com/jash69/github-readme-stats)
 
